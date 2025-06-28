@@ -3,8 +3,8 @@ $(function () {
 
     window.chatwoot = {};
     // update the inbox identifier
-    chatwoot.inboxIdentifier = "bXKr2F2asDjztoVipLF9Lt8v";
-    chatwoot.chatwootAPIUrl = "http://localhost:3000/public/api/v1/"
+    chatwoot.inboxIdentifier = "n2KvhwzMqDNY8XMiQ6cnaiuu";
+    chatwoot.chatwootAPIUrl = "http://localhost:8080/public/api/v1/"
 
     // for better performance - to avoid searching in DOM
     var content = $('#content');
